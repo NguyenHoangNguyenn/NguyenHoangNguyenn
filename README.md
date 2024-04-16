@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I am currently a final year student at **Ho Chi Minh City University of Technology**.
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 My major is in Control and Automation Engineering.
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Design in general, and specifically web design programming, are my passions.
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ I’m currently learning **React, PHP**
 
  </div>
  
