@@ -12,11 +12,11 @@
  
  🔭 I am currently a final year student at **Ho Chi Minh City University of Technology**.
  
- 🌱 My major is in Control and Automation Engineering.
+ 🌱 Design in general, and specifically web design programming, are my passions.
 
-💬 Design in general, and specifically web design programming, are my passions.
+ 💬 My major is in Control and Automation Engineering.
 
-⚡ I’m currently learning **React, PHP**
+ ⚡ I’m currently learning **React, PHP**
 
  </div>
  
