@@ -53,6 +53,20 @@
   <br/><br/><br/>
 </div>
 
+<div align="center"> 
+  <a href="mailto:hoangnguyen5722@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/hnguyen5722/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/your-cv-link/view" target="_blank">
+     <img src="https://img.shields.io/badge/View%20CV-009688?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+</div>
 
 
 
