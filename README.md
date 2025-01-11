@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nguyen+Hoang+Nguyen!;" />
 </h1>
 
-<h3 align="center">A Front-End developer from VietNam 🇻🇳 <img width=20px src="https://seeklogo.com/images/V/viet-nam-logo-3D78D597F9-seeklogo.com.png" /> </h3>
+<h3 align="center">I am Hoang Nguyen - Automation Engineer - Front-End developer from VietNam 🇻🇳 <img width=20px src="https://seeklogo.com/images/V/viet-nam-logo-3D78D597F9-seeklogo.com.png" /></h3>
 
 <br/>
 
